@@ -1,4 +1,4 @@
 python
 ======
 
-Python 개발 모록
+Python 개발 목록
